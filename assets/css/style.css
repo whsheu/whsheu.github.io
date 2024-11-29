@@ -74,6 +74,17 @@ p {
   background-size: cover; /* Adjust this property based on how you want the icon to be sized */
 }
 
+.icon-cv {
+  display: inline-block;
+  width: 24px; /* Adjust the width and height according to your icon's dimensions */
+  height: 24px;
+  margin-left: 3px;
+  margin-right: 3px;
+  background-image: url("../../image/cv.webp");
+  background-repeat: no-repeat;
+  background-size: cover; /* Adjust this property based on how you want the icon to be sized */
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
